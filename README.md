@@ -72,7 +72,7 @@ lance un éditeur de code -- pour lancer VScode
 -
 lance l'explorateur de fichiers / lance l'explorateur -- pour lancer l'explorateur de fichier
 -
-lance la calculatrice / calculatrice -- pour utiliser la calculatrice window
+lance la calculatrice / calculatrice -- pour utiliser la calculatrice windows
 -
 lance steam -- pour lancer le launcher Steam
 -
