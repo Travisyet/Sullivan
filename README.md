@@ -1,5 +1,5 @@
 # Sullivan
-![Description](icon.ico) 
+![Description](logo.jpg) 
 
 Sullivan est une assistance vocale intelligente conçue pour Windows. Elle permet de lancer des applications, effectuer des actions système, ou encore contrôler la lecture multimédia grâce à la reconnaissance vocale.
 
